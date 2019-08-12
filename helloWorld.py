@@ -1,4 +1,4 @@
 #test baby
-malcolm = "big sus"
-for i in malcolm():
+malcolm = input("What is malcolm? ")
+for i in malcolm:
     print(i)
