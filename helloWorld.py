@@ -1,1 +1,2 @@
-x = input("Enter input here? ")
+print("Hello World")
+print("yaga")
