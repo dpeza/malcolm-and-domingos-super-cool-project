@@ -1,2 +1,1 @@
-print("Hello World")
-print("yaga")
+x = input("Enter input here? ")
